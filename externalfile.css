@@ -1,0 +1,27 @@
+h1{
+    color:crimson;
+    text-align: center;
+}
+h2{
+    color:darkmagenta
+}
+.vsk{
+    color:chartreuse; 
+   text-align: center;
+}
+h3{
+    color: blue;
+    background-color: chocolate;
+    text-align: center;
+}
+pre{
+    background-color:dimgrey;
+
+}
+center{
+   background-color: black;
+}
+p{
+    color: crimson;
+    background-color: lightsalmon;
+}
